@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TextFilter": {
+      "commandName": "Project",
+      "commandLineArgs": "Files\\TextInput.txt"
+    }
+  }
+}
